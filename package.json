@@ -1,0 +1,1 @@
+{"name":"ancestral-home-walkthrough","private":true,"version":"1.0.0","type":"module","scripts":{"test":"node scripts/verify.mjs","start":"node scripts/serve.cjs"}}
